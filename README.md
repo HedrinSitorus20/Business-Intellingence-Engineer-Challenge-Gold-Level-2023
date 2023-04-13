@@ -6,10 +6,11 @@ This is a Business Intelligence dashboard project which provides visibility to t
 
 ## Tools :
 1. Google Big Query
-2. Visual Studio Code
-3. Visual Studio
-4. Excel
-5. Google Docs
+2. Jupyter Lab
+3. Visual Studio Code
+4. Visual Studio
+5. Excel
+6. Google Docs
 
 ## Team :
 1. Ahmad Rizky
